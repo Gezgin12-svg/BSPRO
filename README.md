@@ -1,4 +1,4 @@
-git 📌 PAYLAŞTIKÇA
+📌 PAYLAŞTIKÇA
 
 Bilgi Paylaştıkça Çoğalır.
 
