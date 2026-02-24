@@ -1,4 +1,4 @@
-📌 PAYLAŞTIKÇA
+git 📌 PAYLAŞTIKÇA
 
 Bilgi Paylaştıkça Çoğalır.
 
@@ -35,4 +35,4 @@ HTML, CSS ve temel JavaScript kullanılarak geliştirilmiştir.
 
 ## Ekran Görüntüsü
 
-<img src="bs.gif" />
+<img src="./image/bs.gif" />
